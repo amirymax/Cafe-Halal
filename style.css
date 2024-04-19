@@ -389,7 +389,7 @@
   margin-left: 90px;
   width: 30px;
   height: 30px;
-  border-radius: 50%;
+  border-radius: 20px;
   color: white;
   background-color: red;
   border-style: none;
@@ -415,7 +415,7 @@
   margin-left: 160px;
   width: 30px;
   height: 30px;
-  border-radius: 50%;
+  border-radius: 20px;
   color: white;
   background-color: green;
   border-style: none;
